@@ -75,6 +75,50 @@ def game_hash
         blocks: 7,
         slam_dunks: 2
         }
+        
+        {player_name:
+        number: 
+        shoe: 
+        points: 
+        rebounds: 
+        assists: 
+        steals: 
+        blocks: 
+        slam_dunks: 
+        }
+        
+        {player_name:
+        number: 
+        shoe: 
+        points: 
+        rebounds: 
+        assists: 
+        steals: 
+        blocks: 
+        slam_dunks: 
+        }
+        
+        {player_name:
+        number: 
+        shoe: 
+        points: 
+        rebounds: 
+        assists: 
+        steals: 
+        blocks: 
+        slam_dunks: 
+        }
+        
+        {player_name:
+        number: 
+        shoe: 
+        points: 
+        rebounds: 
+        assists: 
+        steals: 
+        blocks: 
+        slam_dunks: 
+        }
       ]
     }
   }
